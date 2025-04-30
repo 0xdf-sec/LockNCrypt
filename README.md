@@ -38,7 +38,7 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 
 ### Setup
 ```bash
-git clone https://github.com/krishp4204/LockNCrypt.git
+git clone https://github.com/0xdf-sec/LockNCrypt.git
 cd ValtAuth-Secure
 ```
 
