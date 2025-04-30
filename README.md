@@ -1,5 +1,6 @@
 # LockNCrypt - Secure File Encryption with 2FA 🔒
-![LOCKnCRYPT](https://github.com/user-attachments/assets/60bc37ff-0a3e-4237-b5c4-88f7964ebd22)
+![LOCKnCRYPT](https://github.com/user-attachments/assets/8796c8c8-6a26-4865-ace5-76855782d3ce)
+
 
 ### Project Info
 
