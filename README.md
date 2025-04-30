@@ -30,7 +30,7 @@ Telesign API account (for SMS OTP) - Make sure to add your phone number in it.
 
 # Setup
 Clone the repository:
-git clone https://github.com/yourusername/ValtAuth-Secure.git
+git clone https://github.com/krishp4204/LockNCrypt.git
 cd ValtAuth-Secure
 
 # Install dependencies:
