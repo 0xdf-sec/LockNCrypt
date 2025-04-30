@@ -1,0 +1,6 @@
+pyotp==2.9.0
+qrcode[pil]==7.4.2
+cryptography==42.0.4
+telesign
+setuptools==69.0.3
+psutil==5.9.6
