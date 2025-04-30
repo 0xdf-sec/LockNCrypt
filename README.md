@@ -1,6 +1,7 @@
 # LockNCrypt - Secure File Encryption with 2FA 🔒
 ![LOCKnCRYPT](https://github.com/user-attachments/assets/8796c8c8-6a26-4865-ace5-76855782d3ce)
 
+# ⚠️ Note: This script is currently fully supported only on Windows. Linux/macOS compatibility for environment variable persistence is under development.
 
 ### Project Info
 
