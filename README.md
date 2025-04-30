@@ -6,13 +6,12 @@ Security AES-256-CBC
 
 <div align="center">
 
-| **Version** | **License** | **Python** | **Copyright** | **Author** |
+| **Version** | **License** | **Python** | **Security**
 |------------|------------|------------|-------------|------------|
-| ![Version](https://img.shields.io/badge/Version-1.0-blue) | ![License](https://img.shields.io/badge/License-MIT-green) | ![Python](https://img.shields.io/badge/Python-3.8+-blue) | 2024 | Krish Patel |
+| ![Version](https://img.shields.io/badge/Version-1.0-blue) | ![License](https://img.shields.io/badge/License-MIT-green) | ![Python](https://img.shields.io/badge/Python-3.8+-red) | ![Security](https://img.shields.io/badge/Security-AES--256--CBC-orange)
 
-[![Issues](https://img.shields.io/badge/Issues-0-green)](https://github.com/yourusername/yourrepo/issues)
-[![Project](https://img.shields.io/badge/Project-ValtAuth-blue)](https://github.com/yourusername/yourrepo)
-[![Wikimedia](https://img.shields.io/badge/Wikimedia-OpenSource-lightgrey)](https://wikimedia.org)
+
+
 
 </div>
 
