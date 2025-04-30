@@ -1,6 +1,6 @@
 # LockNCrypt - Secure File Encryption with 2FA 🔒
 
-## Project Info
+### Project Info
 
 - ![Version](https://img.shields.io/badge/Version-1.0-blue)  
 - ![License](https://img.shields.io/badge/License-MIT-green)  
@@ -10,54 +10,54 @@
 A Python-based secure file encryption system with Two-Factor Authentication (2FA) using Google Authenticator (TOTP) and SMS OTP verification via Telesign API.
 
 # Features ✨
-## Dual-Factor Authentication
+### Dual-Factor Authentication
 - Time-based OTP (Google/Microsoft Authenticator)
 - SMS OTP verification (via Telesign API)
 
-## Military-Grade Encryption
+### Military-Grade Encryption
 - AES-256 CBC mode encryptioN
 - Multiple encryption iterations for enhanced security
 
-## User-Friendly GUI
+### User-Friendly GUI
 - Built with Tkinter for easy file selection
 - Progress bars and real-time feedback
 
-## Security Hardened
+### Security Hardened
 - Environment variable configuration
 - Input validation and attempt limiting
 - Automatic cleanup of temporary files
 
 # Installation ⚙️
-## Prerequisites
+### Prerequisites
 - Python 3.8+
 - Telesign API account (for SMS OTP) - Make sure to add your phone number in it.
 
-# Setup
+### Setup
 - git clone https://github.com/krishp4204/LockNCrypt.git
 - cd ValtAuth-Secure
 
 
-# Install dependencies:
+### Install dependencies:
 - pip install -r requirements.txt
 
-# Usage 🚀
+### Usage 🚀
 Run the application for the first time:
 python3 lockncrypt.py
 - It will ask you to enter telesign's API key. Customer ID and your phone number.
 - After that, the script will create a QR code for the Google/Microsoft authenticator.
 
 # Workflow
-## Authentication 🔐
+### Authentication 🔐
 - Scan the generated QR code with Google Authenticator
 - Enter the 6-digit TOTP code
 - Verify SMS OTP sent to your phone
 
-## File Operations 📂
+### File Operations 📂
 - Choose between encryption/decryption
 - Select your file
 - Optionally apply multiple encryption rounds
 
-## Output 🩻
+### Output 🩻
 - Encrypted files get .enc extension
 - Decrypted files restore original format
 
