@@ -2,6 +2,20 @@
 Python 3.8+
 Security AES-256-CBC
 
+## Project Info
+
+<div align="center">
+
+| **Version** | **License** | **Python** | **Copyright** | **Author** |
+|------------|------------|------------|-------------|------------|
+| ![Version](https://img.shields.io/badge/Version-1.0-blue) | ![License](https://img.shields.io/badge/License-MIT-green) | ![Python](https://img.shields.io/badge/Python-3.8+-blue) | 2024 | Krish Patel |
+
+[![Issues](https://img.shields.io/badge/Issues-0-green)](https://github.com/yourusername/yourrepo/issues)
+[![Project](https://img.shields.io/badge/Project-ValtAuth-blue)](https://github.com/yourusername/yourrepo)
+[![Wikimedia](https://img.shields.io/badge/Wikimedia-OpenSource-lightgrey)](https://wikimedia.org)
+
+</div>
+
 A Python-based secure file encryption system with Two-Factor Authentication (2FA) using Google Authenticator (TOTP) and SMS OTP verification via Telesign API.
 
 # Features ✨
@@ -23,15 +37,14 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 - Automatic cleanup of temporary files
 
 # Installation ⚙️
-Prerequisites
-Python 3.8+
-
-Telesign API account (for SMS OTP) - Make sure to add your phone number in it.
+## Prerequisites
+- Python 3.8+
+- Telesign API account (for SMS OTP) - Make sure to add your phone number in it.
 
 # Setup
-Clone the repository:
-git clone https://github.com/krishp4204/LockNCrypt.git
-cd ValtAuth-Secure
+- git clone https://github.com/krishp4204/LockNCrypt.git
+- cd ValtAuth-Secure
+
 
 # Install dependencies:
 - pip install -r requirements.txt
