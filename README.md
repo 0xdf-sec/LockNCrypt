@@ -1,16 +1,11 @@
 # LockNCrypt - Secure File Encryption with 2FA 🔒
-Python 3.8+
-Security AES-256-CBC
 
 ## Project Info
 
-<div align="center">
-
-| **Version** | **License** | **Python** | **Security** |
-|------------|------------|------------|-------------|
-| ![Version](https://img.shields.io/badge/Version-1.0-blue) | ![License](https://img.shields.io/badge/License-MIT-green) | ![Python](https://img.shields.io/badge/Python-3.8+-red) | ![Security](https://img.shields.io/badge/Security-AES--256--CBC-orange) |
-
-</div>
+- ![Version](https://img.shields.io/badge/Version-1.0-blue)  
+- ![License](https://img.shields.io/badge/License-MIT-green)  
+- ![Python](https://img.shields.io/badge/Python-3.8+-red)  
+- ![Security](https://img.shields.io/badge/Security-AES--256--CBC-orange)
 
 A Python-based secure file encryption system with Two-Factor Authentication (2FA) using Google Authenticator (TOTP) and SMS OTP verification via Telesign API.
 
