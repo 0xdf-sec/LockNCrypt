@@ -31,13 +31,15 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 
 # Installation ⚙️
 ### Prerequisites
+```bash
 - Python 3.8+
 - Telesign API account (for SMS OTP) - Make sure to add your phone number in it.
+```
 
 ### Setup
 ```bash
-- git clone https://github.com/krishp4204/LockNCrypt.git
-- cd ValtAuth-Secure
+git clone https://github.com/krishp4204/LockNCrypt.git
+cd ValtAuth-Secure
 ```
 
 ### Install dependencies:
