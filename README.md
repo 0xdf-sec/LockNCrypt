@@ -6,12 +6,9 @@ Security AES-256-CBC
 
 <div align="center">
 
-| **Version** | **License** | **Python** | **Security**
-|------------|------------|------------|-------------|------------|
-| ![Version](https://img.shields.io/badge/Version-1.0-blue) | ![License](https://img.shields.io/badge/License-MIT-green) | ![Python](https://img.shields.io/badge/Python-3.8+-red) | ![Security](https://img.shields.io/badge/Security-AES--256--CBC-orange)
-
-
-
+| **Version** | **License** | **Python** | **Security** |
+|------------|------------|------------|-------------|
+| ![Version](https://img.shields.io/badge/Version-1.0-blue) | ![License](https://img.shields.io/badge/License-MIT-green) | ![Python](https://img.shields.io/badge/Python-3.8+-red) | ![Security](https://img.shields.io/badge/Security-AES--256--CBC-orange) |
 
 </div>
 
