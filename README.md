@@ -32,10 +32,10 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 # Installation ⚙️
 ### Prerequisites
 ```bash
-#### 1. Install Python 3.8+  
+1. Install Python 3.8+  
 python --version  # Verify installation  
 
-#### 2. Sign up for Telesign (Free $5 credit = 500 OTPs)  
+2. Sign up for Telesign (Free $5 credit = 500 OTPs)  
 https://portal.telesign.com/signup  
 ```
 
