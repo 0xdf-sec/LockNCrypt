@@ -32,8 +32,11 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 # Installation ⚙️
 ### Prerequisites
 ```bash
-- Python 3.8+
-- Telesign API account (for SMS OTP) - Make sure to add your phone number in it.
+#### 1. Install Python 3.8+  
+python --version  # Verify installation  
+
+#### 2. Sign up for Telesign (Free $5 credit = 500 OTPs)  
+https://portal.telesign.com/signup  
 ```
 
 ### Setup
