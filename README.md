@@ -35,18 +35,22 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 - Telesign API account (for SMS OTP) - Make sure to add your phone number in it.
 
 ### Setup
+```bash
 - git clone https://github.com/krishp4204/LockNCrypt.git
 - cd ValtAuth-Secure
-
+```
 
 ### Install dependencies:
-- pip install -r requirements.txt
-
+```bash
+pip3 install -r requirements.txt
+```
 ### Usage 🚀
+```bash
 Run the application for the first time:
 python3 lockncrypt.py
 - It will ask you to enter telesign's API key. Customer ID and your phone number.
 - After that, the script will create a QR code for the Google/Microsoft authenticator.
+```
 
 # Workflow
 ### Authentication 🔐
