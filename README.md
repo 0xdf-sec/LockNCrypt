@@ -43,17 +43,17 @@ python3 lockncrypt.py
 - After that, the script will create a QR code for the Google/Microsoft authenticator.
 
 # Workflow
---> Authentication 🔐
+## Authentication 🔐
 - Scan the generated QR code with Google Authenticator
 - Enter the 6-digit TOTP code
 - Verify SMS OTP sent to your phone
 
---> File Operations 📂
+## File Operations 📂
 - Choose between encryption/decryption
 - Select your file
 - Optionally apply multiple encryption rounds
 
---> Output 🩻
+## Output 🩻
 - Encrypted files get .enc extension
 - Decrypted files restore original format
 
