@@ -31,7 +31,7 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 - Automatic cleanup of temporary files
 
 # Installation ⚙️
-### Prerequisites
+## Prerequisites
 ```bash
 1. Install Python 3.8+  
 python --version  # Verify installation  
@@ -47,7 +47,7 @@ Install the requiremnets
 And RUN
 ```
 
-### Setup for Linus
+### Setup for Linux
 ```bash
 git clone https://github.com/0xdf-sec/LockNCrypt.git
 cd LockNCrypt
