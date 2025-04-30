@@ -40,7 +40,14 @@ python --version  # Verify installation
 https://portal.telesign.com/signup  
 ```
 
-### Setup
+### Setup for Windows
+```bash
+Clone this repository from GitHub Desktop
+Install the requiremnets
+And RUN
+```
+
+### Setup for Linus
 ```bash
 git clone https://github.com/0xdf-sec/LockNCrypt.git
 cd LockNCrypt
