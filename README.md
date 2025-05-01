@@ -30,6 +30,8 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 - Input validation and attempt limiting
 - Automatic cleanup of temporary files
 
+
+
 # Installation ⚙️
 ## Prerequisites
 ```bash
@@ -64,6 +66,7 @@ python3 lockncrypt.py
 - It will ask you to enter telesign's API key. Customer ID and your phone number.
 - After that, the script will create a QR code for the Google/Microsoft authenticator.
 ```
+
 
 # Workflow 🔀
 ### Authentication 🔐
