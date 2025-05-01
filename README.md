@@ -65,7 +65,7 @@ python3 lockncrypt.py
 - After that, the script will create a QR code for the Google/Microsoft authenticator.
 ```
 
-# Workflow
+# Workflow 🔀
 ### Authentication 🔐
 - Scan the generated QR code with Google Authenticator
 - Enter the 6-digit TOTP code
