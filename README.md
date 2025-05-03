@@ -18,7 +18,7 @@ A Python-based secure file encryption system with Two-Factor Authentication (2FA
 - SMS OTP verification (via Telesign API)
 
 ### Military-Grade Encryption
-- AES-256 CBC mode encryptioN
+- AES-256 CBC mode encryption
 - Multiple encryption iterations for enhanced security
 
 ### User-Friendly GUI
