@@ -5,9 +5,8 @@
 
 ### Project Info
 
-- ![Version](https://img.shields.io/badge/Version-1.0-blue)  
-- ![License](https://img.shields.io/badge/License-MIT-green)  
-- ![Python](https://img.shields.io/badge/Python-3.8+-red)  
+- ![Version](https://img.shields.io/badge/Version-1.0-blue)    
+- ![Python](https://img.shields.io/badge/Python-3.8+-green)  
 - ![Security](https://img.shields.io/badge/Security-AES--256--CBC-orange)
 
 A Python-based secure file encryption system with Two-Factor Authentication (2FA) using Google Authenticator (TOTP) and SMS OTP verification via Telesign API.
